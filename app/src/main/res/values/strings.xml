@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Manajemen Tugas</string>
+    <string name="delete">DELETE</string>
+    <string name="nama_tugas">Nama Tugas</string>
+    <string name="masukkan_nama_tugas">Masukkan nama tugas</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="masukkan_deskripsi">Masukkan deskripsi</string>
+    <string name="simpan">Simpan</string>
+</resources>
